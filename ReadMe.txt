@@ -11,7 +11,7 @@ Run the program by running python fakenews.py in the project directory.
 Enter the URL of the news article you want to analyze when prompted.
 The program will output the average sentiment score of the articles from that news source and whether it is biased towards the left, right, or is unbiased.
 Contributing
-Fork this repository.
+Fork this repository. 
 Create a new branch with your changes: git checkout -b my-feature-branch.
 Make your changes and commit them: git commit -am 'Add some feature'.
 Push to the branch: git push origin my-feature-branch.
